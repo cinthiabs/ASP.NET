@@ -1,0 +1,6 @@
+C:\Users\DELL-EDESOFT\Desktop\Estudos\Curso Udemy ASP.NET\Web\Web\bin\Web.dll.config
+C:\Users\DELL-EDESOFT\Desktop\Estudos\Curso Udemy ASP.NET\Web\Web\bin\Web.dll
+C:\Users\DELL-EDESOFT\Desktop\Estudos\Curso Udemy ASP.NET\Web\Web\bin\Web.pdb
+C:\Users\DELL-EDESOFT\Desktop\Estudos\Curso Udemy ASP.NET\Web\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
+C:\Users\DELL-EDESOFT\Desktop\Estudos\Curso Udemy ASP.NET\Web\Web\obj\Debug\Web.dll
+C:\Users\DELL-EDESOFT\Desktop\Estudos\Curso Udemy ASP.NET\Web\Web\obj\Debug\Web.pdb

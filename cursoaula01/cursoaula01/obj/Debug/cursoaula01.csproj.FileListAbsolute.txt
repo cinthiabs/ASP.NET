@@ -1,0 +1,6 @@
+C:\Users\DELL-EDESOFT\Desktop\Estudos\Curso Udemy ASP.NET\cursoaula01\cursoaula01\bin\cursoaula01.dll.config
+C:\Users\DELL-EDESOFT\Desktop\Estudos\Curso Udemy ASP.NET\cursoaula01\cursoaula01\bin\cursoaula01.dll
+C:\Users\DELL-EDESOFT\Desktop\Estudos\Curso Udemy ASP.NET\cursoaula01\cursoaula01\bin\cursoaula01.pdb
+C:\Users\DELL-EDESOFT\Desktop\Estudos\Curso Udemy ASP.NET\cursoaula01\cursoaula01\obj\Debug\cursoaula01.csprojResolveAssemblyReference.cache
+C:\Users\DELL-EDESOFT\Desktop\Estudos\Curso Udemy ASP.NET\cursoaula01\cursoaula01\obj\Debug\cursoaula01.dll
+C:\Users\DELL-EDESOFT\Desktop\Estudos\Curso Udemy ASP.NET\cursoaula01\cursoaula01\obj\Debug\cursoaula01.pdb

@@ -1,0 +1,6 @@
+C:\Users\DELL-EDESOFT\Desktop\Estudos\Curso Udemy ASP.NET\UploadArquivos\UploadArquivos\bin\UploadArquivos.dll.config
+C:\Users\DELL-EDESOFT\Desktop\Estudos\Curso Udemy ASP.NET\UploadArquivos\UploadArquivos\bin\UploadArquivos.dll
+C:\Users\DELL-EDESOFT\Desktop\Estudos\Curso Udemy ASP.NET\UploadArquivos\UploadArquivos\bin\UploadArquivos.pdb
+C:\Users\DELL-EDESOFT\Desktop\Estudos\Curso Udemy ASP.NET\UploadArquivos\UploadArquivos\obj\Debug\UploadArquivos.csprojResolveAssemblyReference.cache
+C:\Users\DELL-EDESOFT\Desktop\Estudos\Curso Udemy ASP.NET\UploadArquivos\UploadArquivos\obj\Debug\UploadArquivos.dll
+C:\Users\DELL-EDESOFT\Desktop\Estudos\Curso Udemy ASP.NET\UploadArquivos\UploadArquivos\obj\Debug\UploadArquivos.pdb

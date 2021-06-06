@@ -1,0 +1,7 @@
+C:\Users\DELL-EDESOFT\Desktop\Estudos\Curso Udemy ASP.NET\AspModulo2\AspModulo2\bin\AspModulo2.dll.config
+C:\Users\DELL-EDESOFT\Desktop\Estudos\Curso Udemy ASP.NET\AspModulo2\AspModulo2\bin\AspModulo2.dll
+C:\Users\DELL-EDESOFT\Desktop\Estudos\Curso Udemy ASP.NET\AspModulo2\AspModulo2\bin\AspModulo2.pdb
+C:\Users\DELL-EDESOFT\Desktop\Estudos\Curso Udemy ASP.NET\AspModulo2\AspModulo2\obj\Debug\AspModulo2.dll
+C:\Users\DELL-EDESOFT\Desktop\Estudos\Curso Udemy ASP.NET\AspModulo2\AspModulo2\obj\Debug\AspModulo2.pdb
+C:\Users\DELL-EDESOFT\Desktop\Estudos\Curso Udemy ASP.NET\AspModulo2\AspModulo2\obj\Debug\AspModulo2.csprojAssemblyReference.cache
+C:\Users\DELL-EDESOFT\Desktop\Estudos\Curso Udemy ASP.NET\AspModulo2\AspModulo2\obj\Debug\AspModulo2.csproj.CoreCompileInputs.cache

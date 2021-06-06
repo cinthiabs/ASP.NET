@@ -1,0 +1,7 @@
+C:\Users\DELL-EDESOFT\Desktop\Estudos\Curso Udemy ASP.NET\Calendario\Calendario\bin\Calendario.dll.config
+C:\Users\DELL-EDESOFT\Desktop\Estudos\Curso Udemy ASP.NET\Calendario\Calendario\bin\Calendario.dll
+C:\Users\DELL-EDESOFT\Desktop\Estudos\Curso Udemy ASP.NET\Calendario\Calendario\bin\Calendario.pdb
+C:\Users\DELL-EDESOFT\Desktop\Estudos\Curso Udemy ASP.NET\Calendario\Calendario\obj\Debug\Calendario.dll
+C:\Users\DELL-EDESOFT\Desktop\Estudos\Curso Udemy ASP.NET\Calendario\Calendario\obj\Debug\Calendario.pdb
+C:\Users\DELL-EDESOFT\Desktop\Estudos\Curso Udemy ASP.NET\Calendario\Calendario\obj\Debug\Calendario.csprojAssemblyReference.cache
+C:\Users\DELL-EDESOFT\Desktop\Estudos\Curso Udemy ASP.NET\Calendario\Calendario\obj\Debug\Calendario.csproj.CoreCompileInputs.cache
