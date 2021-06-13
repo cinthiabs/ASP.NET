@@ -30,7 +30,7 @@ namespace AspModulo2
 
         protected void btExecutar_Click(object sender, EventArgs e)
         {
-            Boolean flag = false;
+           // Boolean flag = false;
             foreach(var item in Usuarios)
             {
                 if(item == txtLogin.Text && senhaPadrao == txtSenha.Text )
@@ -43,7 +43,7 @@ namespace AspModulo2
                     HttpCookie senha = new HttpCookie("senha", txtSenha.Text);
                     Response.Cookies.Add(senha);
 
-
+                    Session["login"] = txtLogin.Text;
                     Response.Redirect("~/Principal.aspx");
                 }
                 

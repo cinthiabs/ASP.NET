@@ -17,7 +17,21 @@ namespace AspModulo2
             {
                 LbLogin.Text = Request.Cookies["login"].Value;
             }
+            if (Session["login"] == null) // se o usuario não efetuou o login, redireciona para a tela de login.
+            {
+                Response.Redirect("~/Login.aspx");
+            }
+            else
+            {
+                LbLogin.Text = Session["login"].ToString();
+                if (Session["contador"] == null) Session["contador"] = 0;
 
+                txtSession.Text = Session.SessionID.ToString(); //mostrando o ID da sessão do usuario na textbox
+                txtcontador.Text = Session["contador"].ToString();
+              
+            }
+            if (Application["contador"] == null) Application["contador"] = 0;
+            else txtcontadorapp.Text = Application["contador"].ToString();
         }
 
         protected void BtExecutar_Click(object sender, EventArgs e)
@@ -45,6 +59,22 @@ namespace AspModulo2
             }
             texto += "</p>";
             Response.Write(texto);
+        }
+
+        protected void Btlink_Click(object sender, EventArgs e)
+        {
+             Session["contador"] = Convert.ToInt32(Session["contador"]) + 1;
+        }
+
+        protected void btnRemove_Click(object sender, EventArgs e)
+        {
+            Session.Remove("contador");
+          
+        }
+
+        protected void BtnAdicionar_Click(object sender, EventArgs e)
+        {
+            Application["contador"] = Convert.ToInt32(Application["contador"]) + 1;
         }
     }
 }
